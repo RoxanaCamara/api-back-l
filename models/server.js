@@ -5,7 +5,7 @@ const { createServer } = require("http");
 class Server {
   constructor() {
     this.app = express();
-    this.port = 8008;
+    this.port = process.env.PORT || 3030;
     this.path = {
       auth: "/api/auth",
       sucursales: "/api/sucursales",
