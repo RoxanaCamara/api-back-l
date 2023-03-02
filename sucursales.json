@@ -1,0 +1,313 @@
+{
+numero: 1  , nombre:       BALVANERA
+numero: 2  , nombre:       SAN CRISTOBAL
+numero: 3  , nombre:       ABASTO
+numero: 4  , nombre:       MONSERRAT
+numero: 5  , nombre:       CENTRO
+numero: 6  , nombre:       FLORES
+numero: 7  , nombre:       BOEDO
+numero: 8  , nombre:       CORONEL DIAZ
+numero: 9  , nombre:       SAAVEDRA
+numero: 10 , nombre:       PLAZA SAN MARTIN
+numero: 11 , nombre:       QUINTANA
+numero: 12 , nombre:       VILLA DEL PARQUE
+numero: 14 , nombre:       LINIERS
+numero: 15 , nombre:       CONSTITUYENTES
+numero: 16 , nombre:       PARQUE LEZAMA
+numero: 17 , nombre:       JURAMENTO
+numero: 18 , nombre:       ARROYO
+numero: 19 , nombre:       NUNEZ
+numero: 20 , nombre:       PLAZA ALEMANIA
+numero: 21 , nombre:       COLEGIALES
+numero: 22 , nombre:       PARQUE CHAS
+numero: 23 , nombre:       GALICIA
+numero: 24 , nombre:       PLAZA DE LA REPUBLICA
+numero: 25 , nombre:       VILLA CRESPO
+numero: 26 , nombre:       SAN BENITO DE PALERMO
+numero: 27 , nombre:       PEDRO GOYENA
+numero: 28 , nombre:       MATADEROS NORTE
+numero: 29 , nombre:       PARQUE CENTENARIO
+numero: 30 , nombre:       VILLA PUEYRREDON
+numero: 31 , nombre:       BARILOCHE
+numero: 32 , nombre:       PALERMO SUR
+numero: 33 , nombre:       VILLA GRAL MITRE
+numero: 34 , nombre:       VENADO TUERTO
+numero: 35 , nombre:       VILLA DEVOTO
+numero: 36 , nombre:       Caleta Olivia
+numero: 37 , nombre:       PASEO COLON
+numero: 38 , nombre:       AVENIDA DE MAYO
+numero: 39 , nombre:       BARRIO NORTE
+numero: 40 , nombre:       AVELLANEDA
+numero: 41 , nombre:       MARTINEZ
+numero: 42 , nombre:       MORON
+numero: 43 , nombre:       LUJAN
+numero: 44 , nombre:       TEMPERLEY
+numero: 45 , nombre:       GERLI
+numero: 46 , nombre:       SARANDI
+numero: 47 , nombre:       FLORIDA
+numero: 48 , nombre:       ACASSUSO
+numero: 50 , nombre:       SAENZ PENA
+numero: 51 , nombre:       LOMAS DE MARTINEZ
+numero: 52 , nombre:       MERCEDES
+numero: 53 , nombre:       OLIVOS
+numero: 54 , nombre:       LANUS OESTE
+numero: 55 , nombre:       VICENTE LOPEZ
+numero: 56 , nombre:       FLORIDA OESTE
+numero: 57 , nombre:       CIUDADELA
+numero: 58 , nombre:       SAN MARTIN
+numero: 59 , nombre:       MERLO
+numero: 60 , nombre:       ARISTOBULO DEL VALLE
+numero: 61 , nombre:       BANFIELD
+numero: 62 , nombre:       RAMOS MEJIA
+numero: 63 , nombre:       CASTELAR
+numero: 64 , nombre:       AVENIDA CORDOBA
+numero: 65 , nombre:       CHIVILCOY
+numero: 66 , nombre:       JARDIN BOTANICO
+numero: 67 , nombre:       NAZCA
+numero: 69 , nombre:       ALMAGRO SUD
+numero: 70 , nombre:       POSADAS
+numero: 71 , nombre:       RESISTENCIA
+numero: 72 , nombre:       FORMOSA
+numero: 73 , nombre:       CÃ³rdoba Aeropuerto
+numero: 74 , nombre:       GOYA
+numero: 75 , nombre:       ROSARIO
+numero: 76 , nombre:       CORDOBA
+numero: 77 , nombre:       CORRIENTES
+numero: 78 , nombre:       MAR DEL PLATA
+numero: 79 , nombre:       SANTA FE
+numero: 80 , nombre:       PARANA
+numero: 81 , nombre:       MENDOZA
+numero: 82 , nombre:       BAHIA BLANCA
+numero: 83 , nombre:       INDEPENDENCIA
+numero: 84 , nombre:       JUAN B.JUSTO
+numero: 85 , nombre:       BRAGADO
+numero: 86 , nombre:       RECOLETA
+numero: 87 , nombre:       HAEDO
+numero: 88 , nombre:       FLORES Â NORTE
+numero: 89 , nombre:       TUCUMAN
+numero: 91 , nombre:       LOMAS DEL MIRADOR
+numero: 92 , nombre:       TROPEZON
+numero: 93 , nombre:       SAN ANTONIO DE PADUA
+numero: 94 , nombre:       LANUS ESTE
+numero: 95 , nombre:       MUNRO
+numero: 96 , nombre:       ITUZAINGO
+numero: 97 , nombre:       JUNIN
+numero: 98 , nombre:       ARRECIFES
+numero: 100, nombre:      CHACABUCO
+numero: 101, nombre:      PERGAMINO
+numero: 102, nombre:      SAN MIGUEL
+numero: 103, nombre:      AVENIDA PELLEGRINI
+numero: 104, nombre:      CASEROS
+numero: 105, nombre:      TANDIL
+numero: 106, nombre:      TRES ARROYOS
+numero: 107, nombre:      BERNAL
+numero: 108, nombre:      CASILDA
+numero: 109, nombre:      SAN FRANCISCO
+numero: 110, nombre:      OLAVARRIA
+numero: 111, nombre:      RAFAELA
+numero: 112, nombre:      SAN JUAN
+numero: 113, nombre:      CONCORDIA
+numero: 114, nombre:      GUALEGUAYCHU
+numero: 115, nombre:      VILLA MARIA
+numero: 116, nombre:      JUJUY
+numero: 117, nombre:      SAN NICOLAS
+numero: 118, nombre:      CAMPANA
+numero: 119, nombre:      PILAR
+numero: 120, nombre:      AZUL
+numero: 121, nombre:      SANTIAGO DEL ESTERO
+numero: 122, nombre:      QUILMES
+numero: 123, nombre:      GENERAL PICO
+numero: 124, nombre:      SAN JUSTO
+numero: 125, nombre:      Barrio La Rosada
+numero: 127, nombre:      UGARTECHE
+numero: 128, nombre:      BELGRANO SUD
+numero: 129, nombre:      NEUQUEN
+numero: 130, nombre:      BELGRANO NORTE
+numero: 131, nombre:      Grand Bourg - Salta
+numero: 132, nombre:      FLORENCIO VARELA
+numero: 133, nombre:      PLAZA GRAND BOURG
+numero: 134, nombre:      Parque Industrial Metropolitano
+numero: 135, nombre:      Parque industrial estrella
+numero: 136, nombre:      CABALLITO
+numero: 137, nombre:      LOMAS DE ZAMORA
+numero: 138, nombre:      CATEDRAL
+numero: 139, nombre:      MORENO
+numero: 140, nombre:      VILLA BALLESTER
+numero: 141, nombre:      Resistencia
+numero: 142, nombre:      ESTACION MARTINEZ
+numero: 143, nombre:      CATAMARCA
+numero: 144, nombre:      SAN LUIS
+numero: 145, nombre:      LEANDRO N. ALEM
+numero: 146, nombre:      TIRO SUIZO
+numero: 147, nombre:      Parque Industrial NeuquÃ©n
+numero: 148, nombre:      ALTA CORDOBA
+numero: 149, nombre:      BOLIVAR
+numero: 150, nombre:      CONCEPCION DEL URUGUAY
+numero: 151, nombre:      AVENIDA VELEZ SARSFIELD
+numero: 152, nombre:      LUIS GUILLON
+numero: 153, nombre:      AVENIDA ENTRE RIOS
+numero: 154, nombre:      VILLA DEVOTO SUD
+numero: 155, nombre:      Las Flores
+numero: 156, nombre:      NUEVE DE JULIO
+numero: 157, nombre:      PARQUE AVELLANEDA
+numero: 158, nombre:      PATERNAL
+numero: 159, nombre:      CHACARITA
+numero: 160, nombre:      AVENIDA CHICLANA
+numero: 161, nombre:      QUILMES OESTE
+numero: 162, nombre:      OLIVOS ALTOS
+numero: 163, nombre:      CaamaÃ±o
+numero: 164, nombre:      OberÃ¡
+numero: 165, nombre:      SAN ISIDRO
+numero: 166, nombre:      LURO
+numero: 167, nombre:      ConcepciÃ³n TucumÃ¡n
+numero: 168, nombre:      EL DORADO
+numero: 170, nombre:      Rio Cuarto
+numero: 171, nombre:      NECOCHEA
+numero: 172, nombre:      LA PLATA
+numero: 173, nombre:      SALTA
+numero: 174, nombre:      Monte Castro
+numero: 175, nombre:      DIAGONAL NORTE
+numero: 176, nombre:      RIO CUARTO
+numero: 177, nombre:      LA RIOJA
+numero: 178, nombre:      COMODORO RIVADAVIA
+numero: 179, nombre:      MONTE GRANDE
+numero: 180, nombre:      ADROGUE
+numero: 181, nombre:      SAN FERNANDO
+numero: 182, nombre:      PARERA
+numero: 183, nombre:      Moron Plaza
+numero: 185, nombre:      Lomas de Zamora
+numero: 186, nombre:      Parque Leloir
+numero: 187, nombre:      MAR DEL PLATA
+numero: 188, nombre:      JUMBO PARQUE BROWN
+numero: 189, nombre:      Viedma
+numero: 190, nombre:      Wilde
+numero: 191, nombre:      SAN MARTIN CENTRO
+numero: 192, nombre:      Doblas y Pedro Goyena
+numero: 194, nombre:      Barrancas de Belgrano
+numero: 196, nombre:      NUEVA CORDOBA
+numero: 197, nombre:      AVENIDA SABATTINI
+numero: 198, nombre:      RIO GALLEGOS
+numero: 199, nombre:      CERRO DE LAS ROSAS
+numero: 209, nombre:      Dardo Rocha
+numero: 210, nombre:      Maipu Mendoza
+numero: 211, nombre:      AMERICANOS NVO. CTRO.
+numero: 212, nombre:      JUMBO PALERMO
+numero: 213, nombre:      El Libertador
+numero: 215, nombre:      Agote
+numero: 217, nombre:      PQUE INDUSTRIAL PILAR
+numero: 218, nombre:      Tribunales
+numero: 220, nombre:      ROSARIO FISHERTON
+numero: 221, nombre:      LA PLATA NORTE
+numero: 222, nombre:      MENDOZA -SAN RAFAEL-
+numero: 224, nombre:      MENDOZA -SAN MARTIN-
+numero: 225, nombre:      MENDOZA -PQUE INDUSTRIAL-
+numero: 227, nombre:      FEIGIN
+numero: 228, nombre:      Quilmes
+numero: 229, nombre:      San Francisco
+numero: 232, nombre:      PRESIDENCIA ROQUE SÃENZ PEÃ‘A
+numero: 233, nombre:      ROSARIO PASEO DEL SIGLO
+numero: 234, nombre:      F. DE CIENCIAS ECONOMICAS
+numero: 235, nombre:      ESCOBAR
+numero: 236, nombre:      PLAZA DE MAYO
+numero: 240, nombre:      Polo Industrial Ezeiza
+numero: 241, nombre:      JUMBO UNICENTER
+numero: 243, nombre:      AVENIDA Â BELGRANO
+numero: 244, nombre:      Peatonal Florida
+numero: 245, nombre:      BELGRANO R.
+numero: 246, nombre:      MZA. A. VILLANUEVA
+numero: 247, nombre:      MENDOZA GUAYMALLEN
+numero: 248, nombre:      Avenida ElCano
+numero: 250, nombre:      HURLINGHAM
+numero: 251, nombre:      SANTA ROSA
+numero: 253, nombre:      MENDOZA Â LUJAN DE CUYO
+numero: 254, nombre:      GRAL ROCA
+numero: 256, nombre:      PUERTO MADRYN
+numero: 257, nombre:      Rivadavia y Carabobo
+numero: 260, nombre:      ESPERANZA
+numero: 261, nombre:      BAHIA BLANCA
+numero: 264, nombre:      GALVEZ
+numero: 267, nombre:      Bv. OroÃ±o
+numero: 274, nombre:      RIO TERCERO
+numero: 278, nombre:      BELL VILLE
+numero: 281, nombre:      MARCOS JUAREZ
+numero: 294, nombre:      RUFINO
+numero: 296, nombre:      GRAL. VILLEGAS
+numero: 300, nombre:      MENDOZA - GODOY CRUZ
+numero: 303, nombre:      MEDRANO
+numero: 306, nombre:      PLAZA LAVALLE
+numero: 307, nombre:      LINCOLN
+numero: 308, nombre:      TIGRE
+numero: 310, nombre:      MENDOZA CHACRAS DE CORIA
+numero: 313, nombre:      PACHECO
+numero: 314, nombre:      ESTACION AGUERO
+numero: 316, nombre:      LA PLATA- TRIBUNALES
+numero: 322, nombre:      BELGRANO
+numero: 325, nombre:      CALLAO Y ARENALES
+numero: 327, nombre:      RETIRO
+numero: 332, nombre:      RAMOS MEJIA CENTRO
+numero: 335, nombre:      GOLF SAN ISIDRO
+numero: 338, nombre:      PLAZA JURAMENTO
+numero: 339, nombre:      FLORIDA II
+numero: 340, nombre:      GUEMES
+numero: 341, nombre:      PEHUAJO
+numero: 342, nombre:      TRENQUE LAUQUEN
+numero: 343, nombre:      ZARATE
+numero: 344, nombre:      JESUS MARIA
+numero: 345, nombre:      RECONQUISTA
+numero: 346, nombre:      USHUAIA
+numero: 347, nombre:      RIO GRANDE
+numero: 348, nombre:      TRELEW
+numero: 349, nombre:      CIPOLLETTI
+numero: 350, nombre:      CANNING
+numero: 351, nombre:      C. RIV. BARRIO INDUSTRIAL
+numero: 352, nombre:      VILLA MERCEDES
+numero: 353, nombre:      Bicentenario
+numero: 354, nombre:      Av. Victorica
+numero: 355, nombre:      RECTA MARTINOLLI
+numero: 356, nombre:      Distrito Galicia
+numero: 357, nombre:      TUCUMAN BARRIO NORTE
+numero: 358, nombre:      PUERTO MADERO
+numero: 359, nombre:      SAN LORENZO
+numero: 360, nombre:      ALVEAR
+numero: 361, nombre:      TORTUGAS MALL
+numero: 362, nombre:      BOULEVARD SAN JUAN
+numero: 363, nombre:      VILLA URQUIZA
+numero: 364, nombre:      SALADILLO
+numero: 366, nombre:      ESTACION PASTEUR
+numero: 367, nombre:      PALMAS DEL PILAR
+numero: 368, nombre:      PINAMAR
+numero: 369, nombre:      BALCARCE
+numero: 371, nombre:      BERAZATEGUI
+numero: 372, nombre:      VILLA ADELINA
+numero: 373, nombre:      AVENIDA 44
+numero: 374, nombre:      YERBA BUENA
+numero: 375, nombre:      ESQUEL
+numero: 376, nombre:      CITY BELL
+numero: 377, nombre:      CORONEL SUAREZ
+numero: 379, nombre:      SAN PEDRO
+numero: 380, nombre:      BOULEVARD GALVEZ
+numero: 381, nombre:      MICROCENTRO RECONQUISTA
+numero: 382, nombre:      MICROCENTRO CARLOS PELLEGRINI
+numero: 383, nombre:      Nordelta
+numero: 385, nombre:      Cuenca
+numero: 386, nombre:      CUTRAL CO
+numero: 390, nombre:      AÃ‘ELO
+numero: 391, nombre:      CAÃ‘UELAS
+numero: 392, nombre:      Burzaco
+numero: 393, nombre:      Parque Patricios
+numero: 394, nombre:      Laguna del Sol
+numero: 395, nombre:      Ensenada
+numero: 396, nombre:      San Justo
+numero: 397, nombre:      Tucuman Tribunales
+numero: 398, nombre:      El Talar
+numero: 400, nombre:      Plaza Galicia
+numero: 431, nombre:      Rosario peatonal
+numero: 432, nombre:      MDQ â€“ Av ConstituciÃ³n
+numero: 455, nombre:      San Miguel Centro
+numero: 701, nombre:      Honduras
+numero: 702, nombre:      Estacion Ramallo
+numero: 703, nombre:      Shopping DOT
+numero: 704, nombre:      Boulevard Alberdi
+numero: 990, nombre:      TORRE - LOGISTICA
+numero: 999, nombre:      CASA MATRIZ
+}
